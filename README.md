@@ -25,3 +25,5 @@ https://www.kaggle.com/datasets/kurianbenoy/malayalam-multispeaker-speech-data-s
 - Scikit-learn
 - NumPy
 - Pandas
+
+##Comparative analysis of multiple self supervised learning techniques with traditional mfcc extraction.
